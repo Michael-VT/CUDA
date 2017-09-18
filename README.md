@@ -27,6 +27,7 @@ nvcc -arch=sm_30 %1.cu -ccbin %cudbin% --include-path %includ%
 ---
 
 I wish you success.
+---
 
 
 

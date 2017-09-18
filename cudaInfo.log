@@ -1,0 +1,18 @@
+Device count: 1
+
+Device name: GeForce GTX 770
+Total global memory: 2147483648
+Shared memory per block: 49152
+Registers per block: 65536
+Warp size: 32
+Memory pitch: 2147483647
+Max threads per block: 1024
+Max threads dimensions: x = 1024, y = 1024, z = 64
+Max grid size: x = 2147483647, y = 65535, z = 65535
+Clock rate: 1189000
+Total constant memory: 65536
+Compute capability: 3.0
+Texture alignment: 512
+Device overlap: 1
+Multiprocessor count: 8
+Kernel execution timeout enabled: true

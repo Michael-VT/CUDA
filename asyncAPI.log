@@ -1,0 +1,7 @@
+[asyncAPI.exe] - Starting...
+GPU Device 0: "GeForce GTX 770" with compute capability 3.0
+
+CUDA device [GeForce GTX 770]
+time spent executing by the GPU: 22.42
+time spent by CPU in CUDA calls: 0.05
+CPU executed 9717 iterations while waiting for GPU to finish

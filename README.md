@@ -1,5 +1,5 @@
 # CUDA examples with batch file to run
-This repo contain sample sources and already compiled files.
+This repo contains sample sources and already compiled files.
 
 Example how to make `asyncAPI.exe` from `asyncAPI.cu`:
 
